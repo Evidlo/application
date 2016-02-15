@@ -1,0 +1,33 @@
+Partlist exported from /home/evan/Dropbox/IEEE ROV 2015/electronics/boards/application/app1.sch at 3/23/15 8:04 AM
+
+Assembly variant: 
+
+Qty Value                  Device                 Parts                                                      
+2   0.01uF                 C-USC0603              C4, C5                                                     
+2   0.1                    R-US_R0603             R9, R11                                                    
+2   0.22uF                 C-USC0603              C8, C12                                                    
+2   1k                     R-US_R0603             R7, R8                                                     
+2   1nF                    C-USC0603K             C6, C7                                                     
+3   1u                     C-EUC0603              C1, C2, C3                                                 
+9   1uF                    C-USC0603              C10, C11, C14, C15, CF, CF1, CF2, CF3, CF4                 
+10  1uF                    C-USC1206              CIN1, CIN2, CIN3, CIN4, CIN5, CIN6, CIN7, CIN8, CIN9, CIN10
+5   6.98k                  R-US_R0603             RUV1, RUV3, RUV5, RUV7, RUV9                               
+4   10K                    R-US_R0603             R10, R12, R13, R14                                         
+7   10k                    R-US_R0603             R1, R2, R3, R4, R5, R6, R15                                
+5   48uH                   SRP1265A               L1, L2, L3, L4, L5                                         
+5   49.9k                  R-US_R0603             RUV2, RUV4, RUV6, RUV8, RUV10                              
+5   73.2                   R-US_R0603             ROFF, ROFF1, ROFF2, ROFF3, ROFF4                           
+5   80m                    R-US_R2512             RSNS, RSNS1, RSNS2, RSNS3, RSNS4                           
+3   100uF                  CPOL-USSANYO_SMD_B6    C9, C13, C18                                               
+2   100uF                  CPOL-USUD-8X10         C16, C17                                                   
+5   150pF                  C-USC0603              COFF, COFF1, COFF2, COFF3, COFF4                           
+2   A4950                  A4950                  A1, A4950                                                  
+2   A4988                  A4988                  U$7, U$8                                                   
+4   ACS711                 ACS711                 ACS1, ACS711, U1, U2                                       
+1   DB2J31000L             DB2J31000L             U$10                                                       
+5   DIODE-SS3H10-E3/9AT    DIODE-SS3H10-E3/9AT    D1, D2, D3, D4, D5                                         
+5   PMOS-ZXMP10A18KTC      PMOS-ZXMP10A18KTC      Q1, Q2, Q3, Q4, Q5                                         
+1   PSMN2R0-30YL           PSMN2R0-30YL           U$9                                                        
+1   TEN60-P6-S24-S24-P6-RA TEN60-P6-S24-S24-P6-RA U$6                                                        
+1   TLP283-4               TLP283-4               OK1                                                        
+5   U1                     LM3409HV'LM3409HV'     U$1, U$2, U$3, U$4, U$5                                    
